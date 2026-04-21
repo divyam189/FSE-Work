@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo test successfully"
+  },
   "dependencies": {
     "eslint": "^10.2.1",
     "express": "^5.2.1"
